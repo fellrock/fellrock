@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭⚡ I’m currently working on ...
+- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ## I'm a Husband, Dreamer, Engineer, Developer, and Teacher!
 - I’m currently working on [my website][website]!
-- I’m currently learning everything about FullStack and DataScience/Machine Learning 🤣
+- I’m currently learning everything about FullStack and DataScience/Machine Learning
 - I’m looking to collaborate on some projects to learn with it.
 - I’m looking for help to find some job.
 - Ask me about anything.
