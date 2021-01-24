@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ### Hi there, I'm Felipe - aka [fellrock][website] 👋
 
 #### I'm a Husband, Dreamer, Engineer, Developer, and Teacher! :v::grin:
-:hammer: I’m currently working on [my website][website]! <br />
+:computer: I’m currently working on Accenture Application Development. <br />
 :notebook: I’m currently learning everything about SQL, Excel and Python. <br />
 :telescope: I’m looking for help to study about coding and IoT. <br />
 :speech_balloon: Ask me about anything. <br />
