@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 ### Hi there, I'm Felipe - aka [fellrock][website] 👋
 
 #### I'm a Dad, Husband, Dreamer, Engineer, Developer, and Teacher! :v::grin:
-:computer: I’m currently working on Accenture Application Development. <br />
-:notebook: I’m currently learning everything about SQL, Excel and Python. <br />
+:computer: I’m currently working on Data Engineering at <b>XP Inc.</b>. <br />
+:notebook: I’m currently learning everything about Automation (SQL and Python) and Education. <br />
 :telescope: I’m looking for help to study about coding and IoT. <br />
 :speech_balloon: Ask me about anything. <br />
-:dart: 2021 Goals: Get more experience with Analytics area.
+:dart: 2021 Goals: Get more experience with Cloud.
 
 ### Connect with me:
 
