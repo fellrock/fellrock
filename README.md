@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 :notebook: I’m currently learning everything about Automation (SQL and Python) and Education. <br />
 :telescope: I’m looking for help to study about coding and IoT. <br />
 :speech_balloon: Ask me about anything. <br />
-:dart: 2021 Goals: Get more experience with Cloud.
+:dart: 2023 Goals: Get into dotnet 6 and 7.
 
 ### Connect with me:
 
