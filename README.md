@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 ### Hi there, I'm Felipe - aka [fellrock][website] 👋
 
 #### I'm a Dad, Husband, Dreamer, Engineer, Developer, and Teacher! :v::grin:
-:computer: I’m currently working on Software Engineering. <br />
+:computer: I’m currently working on System Support Engineering. <br />
 :notebook: I’m currently learning more about SQL, OOP and APIs. <br />
 :telescope: I’m looking for help to study about coding and IoT. <br />
 :speech_balloon: Ask me about anything. <br />
-:dart: 2023 Goals: Get into dotnet 6 and 7.
+:dart: 2023 Goals: Get into AWS.
 
 ### Connect with me:
 
