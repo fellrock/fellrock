@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 <br />
 <br />
 
-[website]: https://fellrock.github.io/
+[website]: https://www.kravela.cloud/
 [twitter]: https://twitter.com/fellrock
 [instagram]: https://instagram.com/fellrock
 [linkedin]: https://linkedin.com/in/fellrock
