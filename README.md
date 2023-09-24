@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 :notebook: I’m currently learning more about SQL, OOP and APIs. <br />
 :telescope: I’m looking for help to study about coding and IoT. <br />
 :speech_balloon: Ask me about anything. <br />
-:dart: 2023 Goals: Put my homelab to work.
+:dart: 2023 Goals: ~~Put my homelab to work~~ Creating Portifolio.
 
 ### Connect with me:
 
