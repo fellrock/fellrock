@@ -16,13 +16,14 @@ Here are some ideas to get you started:
 ### Hi there, I'm Felipe - aka [fellrock][website] 👋
 
 #### I'm a Dad, Husband, Dreamer, Engineer, Developer and Teacher! :v::grin:
-:computer: I’m currently working on personal projects. <br />
+:computer: I’m currently working on Safra Bank. <br />
 :notebook: I’m currently learning more about SQL, OOP and APIs. <br />
 :telescope: I’m looking for help to study about coding and IoT. <br />
 :speech_balloon: Ask me about anything. <br />
-:dart: 2023 Goals: <br />
+:dart: 2024 Goals: <br />
 &emsp;&emsp;~~1. Put my homelab to work~~<br /> 
-&emsp;&emsp;2. Creating Portifolio.
+&emsp;&emsp;~~2. Creating my Homepage~~<br />
+&emsp;&emsp;3. Create a pipeline for update it.<br />
 
 ### Connect with me:
 
