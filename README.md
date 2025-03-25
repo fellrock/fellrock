@@ -16,20 +16,21 @@ Here are some ideas to get you started:
 ### Hi there, I'm Felipe - aka [fellrock][website] 👋
 
 #### I'm a Dad, Husband, Dreamer, Engineer, Developer and Teacher! :v::grin:
-:computer: I’m currently working on Safra Bank. <br />
-:notebook: I’m currently learning more about SQL, OOP and APIs. <br />
-:telescope: I’m looking for help to study about coding and IoT. <br />
+:computer: I’m currently working over .NET Frawork + Vue Framework. <br />
+:notebook: I’m currently learning more about MicroFrontEnd and Optimization. <br />
+:telescope: I’m looking for help to study about Optimization. <br />
 :speech_balloon: Ask me about anything. <br />
-:dart: 2024 Goals: <br />
-&emsp;&emsp;~~1. Put my homelab to work~~<br /> 
-&emsp;&emsp;~~2. Creating my Homepage~~<br />
-&emsp;&emsp;3. Create a pipeline for update it.<br />
+:dart: 2025 Goals: <br />
+&emsp;&emsp;1. Develop Frontend Skills;<br /> 
+&emsp;&emsp;2. Enhance .NET Skills;<br />
+&emsp;&emsp;3. Practice English;<br />
+&emsp;&emsp;4. Enjoy Life.<br />
 
 ### Connect with me:
 
 [<img align="left" alt="fellrock" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="fellrock | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="fellrock | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<!--[<img align="left" alt="fellrock | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]-->
 [<img align="left" alt="fellrock | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 <br />
 
@@ -54,7 +55,7 @@ Here are some ideas to get you started:
 [website]: https://www.kravela.cloud/
 [twitter]: https://twitter.com/fellrock
 [instagram]: https://instagram.com/fellrock
-[linkedin]: https://linkedin.com/in/fellrock
+<!--[linkedin]: https://linkedin.com/in/fellrock -->
 
 <!-- [<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />]  -->
 <!-- [<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />] -->
