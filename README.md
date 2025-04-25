@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ### Hi there, I'm Felipe - aka [fellrock][website] 👋
 
 #### I'm a Dad, Husband, Dreamer, Engineer, Developer and Teacher! :v::grin:
-:computer: I’m currently working over .NET Frawork + Vue Framework. <br />
+:computer: I’m currently working over (.NET + Vue) Framework. <br />
 :notebook: I’m currently learning more about MicroFrontEnd and Optimization. <br />
 :telescope: I’m looking for help to study about Optimization. <br />
 :speech_balloon: Ask me about anything. <br />
